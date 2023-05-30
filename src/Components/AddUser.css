@@ -1,0 +1,37 @@
+.add-user-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .add-user-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-user-form input[type="text"],
+  .add-user-form input[type="email"],
+  .add-user-form input[type="password"],
+  .add-user-form select {
+    padding: 5px;
+    width: 300px;
+  }
+  
+  .add-user-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .add-user-button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,34 @@
+.update-details-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .update-details-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .update-details-form label {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .update-details-form input[type="text"] {
+    padding: 5px;
+    width: 300px;
+  }
+  
+  .update-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .update-button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,48 @@
+/* .button-container {
+    margin-top: 50px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  } */
+  
+  /* .company-buttons {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-bottom: 20px;
+  } */
+  
+  /* .download-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  } */
+  
+  button {
+    background-color: #a6005b;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  } */
+  
+   button:hover {
+    background-color: #42b865;
+  }
+
+  .class{
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
+
+  } 
+
+  /* .add_company{
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
+  } */

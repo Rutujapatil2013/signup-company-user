@@ -1,0 +1,37 @@
+.update-user-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .update-user-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .update-user-form input[type="text"],
+  .update-user-form input[type="email"],
+  .update-user-form input[type="password"],
+  .update-user-form select {
+    padding: 5px;
+    width: 300px;
+  }
+  
+  .update-user-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .update-user-button:hover {
+    background-color: #0056b3;
+  }
+  
